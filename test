@@ -1,4 +1,10 @@
 FIRST MATCH 
 SECOND MATCH
 THIRD MATCH
+<<<<<<< HEAD
 4th MATCH
+||||||| merged common ancestors
+
+=======
+FOURTH MATCH
+>>>>>>> dev
